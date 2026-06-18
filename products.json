@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "title": "Portable Mini Vacuum Cleaner",
+    "price": 0,
+    "currency": "RM",
+    "category": "Car",
+    "image": "images/mini-vacuum.jpg",
+    "rating": 4.8,
+    "description": "Portable cordless mini vacuum cleaner for car and home.",
+    "link": "https://s.shopee.com.my/4VaWRCt7ta",
+    "featured": true,
+    "tags": [
+      "Car",
+      "Cleaning",
+      "Portable"
+    ]
+  }
+]
